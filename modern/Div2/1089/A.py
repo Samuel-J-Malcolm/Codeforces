@@ -1,3 +1,4 @@
+#solved during contest
 import sys
 for j in range(int(input())):
     i = int(input())
